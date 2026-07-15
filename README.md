@@ -21,6 +21,10 @@ API仕様、データスキーマ、通信プロトコル、識別子、命名�
 - 後方互換性、変更区分、廃止および移行に関する規則
 - Webアプリケーション、CUIアプリケーションその他のソフトウェアに共通するサーフェス規約
 
+## 仕様文書
+
+- [Development Work Classification and Change Governance for Coding Agents](specifications/software-development/coding-agent-development-work-classification.md) — 開発作業を複数の独立した分類軸で整理し、正本、仕様、実装、検証、外部サーフェスおよび変更意図を混同しないための英語規範。
+
 ## サーフェス規約
 
 サーフェスとは、利用者または他のソフトウェアから観測・操作できる外部インターフェースを指します。サーフェス規約には、例えば次の事項を含みます。
